@@ -14,13 +14,33 @@ I'm a Web Designer, Developer, and Researcher with a passion for creating innova
 
 💡 Skills & Technologies
 
-Frontend: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
+🖥️ Frontend
 
-Backend: Node.js, Express.js, PHP, MySQL
 
-Tools & Platforms: Git, GitHub, VS Code, Figma, WordPress
 
-Other: Research & Technical Documentation
+
+
+
+
+
+🛠️ Backend
+
+
+
+
+
+
+🛠️ Tools & Platforms
+
+
+
+
+
+
+
+📖 Other
+
+📑 Research & Technical Documentation
 
 📈 GitHub Stats
 
@@ -28,8 +48,3 @@ Other: Research & Technical Documentation
 
 📫 Connect with Me
 
-🌐 Portfolio Website (Coming Soon)
-
-💼 LinkedIn
-
-📧 Email: sadiachoity@example.com
