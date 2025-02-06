@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi there, I'm Sadia Rahman Choity! 👋
 
-<!--
-**srChoity/srChoity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Designer, Developer, and Researcher with a passion for creating innovative digital experiences and exploring new technologies. I love designing user-friendly interfaces, developing scalable web applications, and conducting research to enhance my skills and knowledge.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Web Development: Frontend & Backend development with modern frameworks.
+
+🎨 Web Design: UI/UX design, responsive layouts, and interactive elements.
+
+🔬 Research: Exploring emerging technologies and best practices in web development.
+
+📚 Continuous Learner: Always eager to learn and improve my skills.
+
+💡 Skills & Technologies
+
+Frontend: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
+
+Backend: Node.js, Express.js, PHP, MySQL
+
+Tools & Platforms: Git, GitHub, VS Code, Figma, WordPress
+
+Other: Research & Technical Documentation
+
+📈 GitHub Stats
+
+
+
+📫 Connect with Me
+
+🌐 Portfolio Website (Coming Soon)
+
+💼 LinkedIn
+
+📧 Email: sadiachoity@example.com
